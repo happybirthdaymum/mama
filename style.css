@@ -1,0 +1,12 @@
+h1 {
+font-family: 'Montserrat', sans-serif;
+text-align: center;
+}
+
+a {
+font-family: 'Montserrat', sans-serif;
+text-align: center;
+border: 1px solid black;
+border-radius: 50%
+background-color: FFEB99;
+}
